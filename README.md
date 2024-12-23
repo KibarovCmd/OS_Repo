@@ -1,2 +1,2 @@
 # OS_Repo
-The aim of this project is to demonstrate the basics of process management, I/O and Linux signal handling.
+The aim of this project is to demonstrate the basics of process management, I/O and Linux signal handling. The aim of the project is to develop a basic Kabuk application. Kabuk is a command line interpreter: It continuously reads standard input for commands from the user, runs the corresponding programs (if any) and displays their output until terminated by the user. This project should be able to create new processes from a main process (shell process), execute commands and perform I/O redirection.
